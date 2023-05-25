@@ -7,12 +7,12 @@
 #Meet the Team
 | Member | Student ID | Path | Role | Contacts |
 | :--------------------: | :--------: | :----------------: | :-----------------------------: | :---------------------------------------------: |
-| Septiah Cahyo Budi Laksono | A151DSX3699 | Machine learning | Machine Learning Developer | [LinkedIn - Cahyo] |
-| Salwa Nadirah | A066DSY3251 | Machine learning | Machine Learning Developer | [LinkedIn - Salwa] |
-| Ryan Arief Satrio | C066DSX2636 | Machine learning | Machine Learning Developer | [LinkedIn - Ryan] |
-| Septian Lanjar Prabowo | C066DSX2677 | Machine Learning | Machine Learning Developer | [LinkedIn - Septian] |
-| Larry Angki | M151DSX1822 | Cloud Computing | DevOps| [LinkedIn - Larry] |
-| Jason Manuel Purnomo | M151DSX3515 | Cloud Computing | DevOps | [LinkedIn - Jason] |
+| Septiah Cahyo Budi Laksono | A151DSX3699 | Mobile Development | Mobile Application Developer | [LinkedIn - Cahyo] |
+| Salwa Nadirah | A066DSY3251 | Mobile Development | Mobile Application Developer | [LinkedIn - Salwa] |
+| Ryan Arief Satrio | C066DSX2636 | Cloud Computing | Devops | [LinkedIn - Ryan] |
+| Septian Lanjar Prabowo | C066DSX2677 |Cloud Computing | Devops | [LinkedIn - Septian] |
+| Larry Angki | M151DSX1822 | Machine Learning | Machine Learning Developer| [LinkedIn - Larry] |
+| Jason Manuel Purnomo | M151DSX3515 | Machine Learning | Machine Learning Developer | [LinkedIn - Jason] |
 
 # About Healcy (Healthy Pregnancy)
 
