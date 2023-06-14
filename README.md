@@ -19,7 +19,7 @@
 Applications should be made in promotional, preventive, and therapeutic efforts aimed at monitoring the health of pregnant women.
 
 
-## main Features
+## Main Features
 
 - Using machine learning this app helps to summarize the current health information given the data
 received from the sensors.
@@ -27,8 +27,8 @@ received from the sensors.
 - View monitoring pregnant women's health with sensors.
 
 ---
-
-![image](https://drive.google.com/uc?export=view&id=1SgCt3nSgZLY5F3qsxCHWLZhHe96wy6UZ)
+## User Flow
+![UserFlow](https://drive.google.com/uc?export=view&id=1-SwEu4z7traRK7yPfMrgFqd1jZ811Ywl)
 
 <!-- Linked In -->
 
