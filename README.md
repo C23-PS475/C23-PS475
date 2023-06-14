@@ -26,6 +26,10 @@ received from the sensors.
 
 - View monitoring pregnant women's health with sensors.
 
+---
+
+![image](https://drive.google.com/uc?export=view&id=1SgCt3nSgZLY5F3qsxCHWLZhHe96wy6UZ)
+
 <!-- Linked In -->
 
 [linkedin - cahyo]: https://www.linkedin.com/in/septiah-cahyo-868b41271
