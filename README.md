@@ -30,6 +30,14 @@ received from the sensors.
 ## User Flow
 ![UserFlow](https://drive.google.com/uc?export=view&id=1V8NR40m-56I0deSaLz8t2ISkmO6VYAtG)
 
+## Link Repository
+
+https://github.com/C23-PS475/Healcy
+
+https://github.com/C23-PS475/Healcy_CC
+
+https://github.com/C23-PS475/Healcy_ML
+
 <!-- Linked In -->
 
 [linkedin - cahyo]: https://www.linkedin.com/in/septiah-cahyo-868b41271
